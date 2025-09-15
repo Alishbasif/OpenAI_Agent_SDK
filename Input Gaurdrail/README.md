@@ -1,10 +1,10 @@
-## 🛡️ Input Guardrails in OpenAI Agent SDK
-# 📘 What are Input Guardrails?
+# 🛡️ Input Guardrails in OpenAI Agent SDK
+## 📘 What are Input Guardrails?
 
 Input Guardrails are rules or checks applied to the user’s input before it reaches the model or agent.
 They are used to filter, validate, or block unsafe/unwanted inputs.
 
-# ❓ Why do we need Input Guardrails?
+## ❓ Why do we need Input Guardrails?
 
 - ✅ Prevent harmful or malicious inputs.
 
@@ -14,7 +14,7 @@ They are used to filter, validate, or block unsafe/unwanted inputs.
 
 - ✅ Protect your Agent from unsafe queries.
 
-# 🚀 Input Guardrails in OpenAI SDK
+## 🚀 Input Guardrails in OpenAI SDK
 
 In the Agent SDK, Input Guardrails:
 
@@ -25,7 +25,7 @@ In the Agent SDK, Input Guardrails:
 - Can raise an InputGuardrailTripwireTriggered event.
 
 - Work with multiple guardrails (all are checked).
-# ⚡ How this works?
+## ⚡ How this works?
 
 - Guardrail function checks input before model sees it.
 
@@ -35,10 +35,11 @@ In the Agent SDK, Input Guardrails:
 
 - If safe → normal flow continues.
 
-# ⭐ Next Steps
+## ⭐ Next Steps
 
 - Add multiple guardrails for format + safety.
 
 - Log triggered guardrails for monitoring.
 
 - Combine with output guardrails for full safety pipeline.
+
