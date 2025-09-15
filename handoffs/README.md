@@ -50,7 +50,8 @@ In the Agent SDK, handoffs are enabled using:
 
 ## 🎯 Visual Flow
 ``` flowchart LR                                      
-``` User --> GeneralAgent
-``` GeneralAgent -- Billing query --> BillingAgent
-``` GeneralAgent -- Tech query --> TechSupportAgent
-``` GeneralAgent -- Normal query --> Response
+ User --> GeneralAgent
+ GeneralAgent -- Billing query --> BillingAgent
+ GeneralAgent -- Tech query --> TechSupportAgent
+ GeneralAgent -- Normal query --> Response
+
