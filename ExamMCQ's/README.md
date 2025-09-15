@@ -1,7 +1,7 @@
 ## 📘 OpenAI SDK MCQs
 
-# This repository contains a collection of Multiple Choice Questions (MCQs) related to the OpenAI Agent SDK.
-# These questions are designed to help learners, developers, and professionals prepare for interviews, exams, or practical usage of the SDK.
+### This repository contains a collection of Multiple Choice Questions (MCQs) related to the OpenAI Agent SDK.
+### These questions are designed to help learners, developers, and professionals prepare for interviews, exams, or practical usage of the SDK.
 
 ## 📂 Contents
 
